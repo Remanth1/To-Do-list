@@ -1,6 +1,5 @@
 # Minimal To-Do List App
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-4.0.0-646CFF.svg)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6.svg)](https://www.typescriptlang.org/)
@@ -54,19 +53,6 @@ A sleek and to-do list application built with React, TypeScript, and Vite.
 4. **Manage Tasks**: Edit or delete tasks as needed.
 5. **Filter Tasks**: Use filter tabs to view specific task categories.
 
-## 📸 Screenshots
-
-### Login Screen
-![Login Screen - Sign in to TaskFlow](https://via.placeholder.com/800x600?text=Login+Screen)
-Welcome back screen with email and password authentication fields.
-
-### Registration Screen
-![Registration Screen - Create your account](https://via.placeholder.com/800x600?text=Registration+Screen)
-Account creation form with Full Name, Email, Password, and Confirm Password fields.
-
-### Dashboard/Main View
-![Dashboard - TaskFlow Home](https://via.placeholder.com/800x600?text=Dashboard+View)
-Main task management interface with navigation tabs (Tasks, Calendar, Mine), task input field, and filtering options (All, Today, Upcoming, Completed).
 
 ## 🤝 Contributing
 
