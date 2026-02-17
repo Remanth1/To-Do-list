@@ -6,7 +6,7 @@
 [![Vite](https://img.shields.io/badge/Vite-4.0.0-646CFF.svg)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6.svg)](https://www.typescriptlang.org/)
 
-A sleek and minimal to-do list application built with React, TypeScript, and Vite. This project is inspired by the design from [Figma](https://www.figma.com/design/baxrzvLOOM1DCW8XIxszyX/Minimal-To-Do-List-App).
+A sleek and to-do list application built with React, TypeScript, and Vite.
 
 ## 🚀 Features
 
@@ -59,6 +59,7 @@ A sleek and minimal to-do list application built with React, TypeScript, and Vit
 
 *Add screenshots of your app here to showcase the UI and features.*
 
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -69,12 +70,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Design inspiration from [Figma Community](https://www.figma.com/design/baxrzvLOOM1DCW8XIxszyX/Minimal-To-Do-List-App)
-- Built with ❤️ using React and Vite
   
