@@ -4,7 +4,7 @@
 [![Vite](https://img.shields.io/badge/Vite-4.0.0-646CFF.svg)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6.svg)](https://www.typescriptlang.org/)
 
-A sleek and to-do list application built with React, TypeScript, and Vite.
+A sleek and to-do list application built with React, TypeScript, and Vite. This app empowers users to efficiently manage their daily tasks with an intuitive interface, featuring user authentication, calendar views, task filtering, and responsive design. All data is stored locally in the browser using localStorage, ensuring user privacy, offline functionality, and no need for external databases.
 
 ## 🚀 Features
 
@@ -15,6 +15,7 @@ A sleek and to-do list application built with React, TypeScript, and Vite.
 - **Responsive Design**: Optimized for desktop and mobile devices
 - **Dark/Light Theme**: Toggle between themes for better user experience
 - **Protected Routes**: Secure access to user-specific content
+- **Local Storage**: Data persists locally in the browser for offline access
 
 ## 🛠️ Technologies Used
 
@@ -24,6 +25,7 @@ A sleek and to-do list application built with React, TypeScript, and Vite.
 - **Routing**: React Router
 - **State Management**: React Context API
 - **Date Utilities**: Custom date handling utilities
+- **Storage**: Browser localStorage for data persistence
 
 ## 📦 Installation
 
@@ -53,6 +55,21 @@ A sleek and to-do list application built with React, TypeScript, and Vite.
 4. **Manage Tasks**: Edit or delete tasks as needed.
 5. **Filter Tasks**: Use filter tabs to view specific task categories.
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Calendar View
+![Calendar View](screenshots/calendar.png)
+
+### Task Management
+![Task Management](screenshots/tasks.png)
+
+*Note: Screenshots are stored in the `screenshots/` folder. Replace the image paths with your actual screenshot files.*
 
 ## 🤝 Contributing
 
