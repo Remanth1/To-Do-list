@@ -31,8 +31,8 @@ A sleek and to-do list application built with React, TypeScript, and Vite.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/minimal-todo-app.git
-   cd minimal-todo-app
+   git clone https://github.com/Remanth1/To-Do-list-.git
+   cd To-Do-list
    ```
 
 2. Install dependencies:
@@ -71,3 +71,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
   
+
