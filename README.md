@@ -55,22 +55,6 @@ A sleek and to-do list application built with React, TypeScript, and Vite. This 
 4. **Manage Tasks**: Edit or delete tasks as needed.
 5. **Filter Tasks**: Use filter tabs to view specific task categories.
 
-## 📸 Screenshots
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Calendar View
-![Calendar View](screenshots/calendar.png)
-
-### Task Management
-![Task Management](screenshots/tasks.png)
-
-*Note: Screenshots are stored in the `screenshots/` folder. Replace the image paths with your actual screenshot files.*
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
