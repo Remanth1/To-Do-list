@@ -5,6 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6.svg)](https://www.typescriptlang.org/)
 
 A sleek and to-do list application built with React, TypeScript, and Vite. This app empowers users to efficiently manage their daily tasks with an intuitive interface, featuring user authentication, calendar views, task filtering, and responsive design. All data is stored locally in the browser using localStorage, ensuring user privacy, offline functionality, and no need for external databases.
+Visit the link to view the project [(https://to-do-list-theta-seven-54.vercel.app)]
 
 ## 🚀 Features
 
